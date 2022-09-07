@@ -61,7 +61,7 @@ a{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.2;
+    line-height: 1.19;
 }
 
 .header-contacts{
@@ -72,7 +72,7 @@ a{
 .header-contacts {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.2;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     display: flex;
     gap: 50px;
@@ -133,7 +133,7 @@ a{
     color: var(--background-text-color);
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.88;
     cursor: pointer;
 }
 
@@ -156,7 +156,7 @@ a{
 
 .advances-descriptions {
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 1.71;
     letter-spacing: 0.01em;
     color: #757575;
 }
@@ -167,6 +167,7 @@ a{
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .our-occupation {
@@ -189,7 +190,7 @@ a{
 
 .subtitle {
     font-size: 36px;
-    line-height: 1.7;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
     margin-bottom: 50px;
@@ -204,16 +205,16 @@ a{
 .our-team-workers {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
-
+    margin-bottom: 10px;
 }
 
 .career {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
@@ -238,7 +239,7 @@ a{
 .footer-adress {
     font-style: normal;
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #FFFFFF;
     text-decoration: none;
@@ -269,7 +270,7 @@ a{
     text-decoration: none;
     font-style: normal;
     font-size: 14px;
-    line-height: 1.7;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -290,7 +291,7 @@ a{
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.6;
+    line-height: 1.63;
     text-align: center;
     letter-spacing: 0.03em;
     border-radius: 4px;
@@ -325,7 +326,7 @@ a{
 
 .type-of-project {
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.88;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -349,6 +350,8 @@ a{
     border-top: none;
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 .images-portfolio{
